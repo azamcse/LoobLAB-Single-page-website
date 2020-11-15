@@ -77,3 +77,14 @@ background:#F8F9FA}
 .get-in-touch img{
     padding-top: 150px
 }
+
+a.nav-link {
+    color: #fff !important;
+}
+
+.navbar {
+    padding: 20px 0;
+    box-shadow: 2px 2px 3px #D6D6D6;
+    background: #000;
+    /* color: #fff !important; */
+}
