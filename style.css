@@ -1,0 +1,79 @@
+.navbar{
+    padding: 20px 0;
+    box-shadow: 2px 2px 3px #D6D6D6
+}
+.navbar img{
+    width: 70px;
+    height: 70px;
+}
+.navbar .nav-item .nav-link{
+    font-size: 24px;
+    padding-right: 25px;
+}
+.navbar .nav-item .nav-link:last-child{
+ 
+    padding-right:0 px;
+}
+.middle{
+    margin-top: 120px;
+    padding: 90px 0;
+    background-image: url(../Mizuxe/image/pexels-laura-penwell-3608056.jpg);
+    min-height: 600px;
+    position:relative;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.middle h1{
+    margin-top: 70px;
+}
+.middle button{
+    border-radius:0px;
+}
+.middle img{
+    margin-top: 60px;
+    width: 100%;
+    height:auto;
+}
+.overlay-imges{
+    background:rgba(0,0,0,0.5);
+    min-height: 600px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.form-info{
+    background: #252525;
+}
+
+.form-info input,button{
+     border-radius:0px;
+}
+/*Form info end*/
+.this-book{
+background:#F8F9FA}
+.meet-authors .card img{
+    margin-top: -60px;
+}
+.meet-authors .card .fab{
+    font-size: 25px;
+    padding: 0px 18px
+}
+.meet-authors .card:hover{
+    background:blue
+}
+.meet-authors .card .fab:hover{
+   color:white
+}
+/*GET IN TOUCH*/
+.get-in-touch{
+    background: #F8F9FA
+}
+.icon-text textarea{
+    padding-right: 40px;
+}
+.get-in-touch img{
+    padding-top: 150px
+}
